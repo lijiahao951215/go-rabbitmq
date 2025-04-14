@@ -1,13 +1,13 @@
 基于 github.com/streadway/amqp
 
 项目引入
-go get github.com/huangchunlong818/go-rabbitmq
+go get github.com/lijiahao951215/go-rabbitmq
 
 更新
-go get -u github.com/huangchunlong818/go-rabbitmq
+go get -u github.com/lijiahao951215/go-rabbitmq
 
 指定版本
-go get -u github.com/huangchunlong818/go-rabbitmq@v0.1.7
+go get -u github.com/lijiahao951215/go-rabbitmq@v0.1.7
 
 开发的go版本 1.20.5
 
