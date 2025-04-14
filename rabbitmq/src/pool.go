@@ -3,7 +3,7 @@ package src
 import (
 	"context"
 	"errors"
-	errorx "github.com/huangchunlong818/go-rabbitmq/rabbitmq/error"
+	errorx "github.com/lijiahao951215/go-rabbitmq/rabbitmq/error"
 	"github.com/rs/xid"
 	"github.com/streadway/amqp"
 	"sync"

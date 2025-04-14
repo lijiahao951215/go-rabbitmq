@@ -1,10 +1,10 @@
-module github.com/huangchunlong818/go-rabbitmq
+module github.com/lijiahao951215/go-rabbitmq
 
 go 1.20
 
 require (
 	github.com/avast/retry-go v3.0.0+incompatible
-	github.com/huangchunlong818/go-trace v0.1.1
+	github.com/lijiahao951215/go-trace v0.1.1
 	github.com/rs/xid v1.5.0
 	github.com/streadway/amqp v1.1.0
 	go.opentelemetry.io/otel/trace v1.28.0

@@ -3,10 +3,10 @@ package rabbitmq
 import (
 	"context"
 	"errors"
-	"github.com/huangchunlong818/go-rabbitmq/rabbitmq/config"
-	"github.com/huangchunlong818/go-rabbitmq/rabbitmq/consume"
-	"github.com/huangchunlong818/go-rabbitmq/rabbitmq/global"
-	"github.com/huangchunlong818/go-rabbitmq/rabbitmq/src"
+	"github.com/lijiahao951215/go-rabbitmq/rabbitmq/config"
+	"github.com/lijiahao951215/go-rabbitmq/rabbitmq/consume"
+	"github.com/lijiahao951215/go-rabbitmq/rabbitmq/global"
+	"github.com/lijiahao951215/go-rabbitmq/rabbitmq/src"
 )
 
 type RabbitmqInit struct {

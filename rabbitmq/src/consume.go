@@ -3,7 +3,7 @@ package src
 import (
 	"context"
 	"github.com/avast/retry-go"
-	errorx "github.com/huangchunlong818/go-rabbitmq/rabbitmq/error"
+	errorx "github.com/lijiahao951215/go-rabbitmq/rabbitmq/error"
 	"strconv"
 	"time"
 )

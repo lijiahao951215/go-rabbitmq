@@ -3,8 +3,8 @@ package main
 import (
 	"context"
 	"fmt"
-	"github.com/huangchunlong818/go-rabbitmq"
-	"github.com/huangchunlong818/go-rabbitmq/rabbitmq/config"
+	"github.com/lijiahao951215/go-rabbitmq"
+	"github.com/lijiahao951215/go-rabbitmq/rabbitmq/config"
 )
 
 func ttt(ctx context.Context, data []byte) error {

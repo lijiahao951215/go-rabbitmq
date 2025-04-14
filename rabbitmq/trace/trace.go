@@ -1,8 +1,8 @@
 package trace
 
 import (
-	"github.com/huangchunlong818/go-rabbitmq/rabbitmq/config"
-	traces "github.com/huangchunlong818/go-trace/trace"
+	"github.com/lijiahao951215/go-rabbitmq/rabbitmq/config"
+	traces "github.com/lijiahao951215/go-trace/trace"
 )
 
 // 获取trace
